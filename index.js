@@ -6,15 +6,15 @@ const port = process.env.PORT || 5001;
 const chef = require('./data/chef.json');
 app.use(cors());
 
-app.get('/', (req, res) =>{
-res.send('Chef Delight is running');
-});
+// app.get('/', (req, res) =>{
+// res.send('Chef Delight is running');
+// });
 
 // chef data sending
 
-// app.get('/chef', (req, res) =>{
-//     res.send(chef);
-// });
+app.get('/chef', (req, res) =>{
+    res.send(chef);
+});
 
 // chef selected id
 
