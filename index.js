@@ -12,9 +12,9 @@ res.send('Chef Delight is running');
 
 // chef data sending
 
-app.get('/chef', (req, res) =>{
-    res.send(chef);
-});
+// app.get('/chef', (req, res) =>{
+//     res.send(chef);
+// });
 
 // chef selected id
 
