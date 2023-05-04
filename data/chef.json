@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "chefPicture": "https://i.ibb.co/jMcyp6X/c5.jpg",
+        "chefName": "Alice Lee",
+        "yearOfExperience": 5,
+        "numberOfRecipes": 20,
+        "likes": 500,
+        "desc": "He known for inventive cuisine",
+        "recipe": [
+            {
+                "name": "Liquid Olive",
+                "ingredients": "Basil, Olive Oil, Pine Nuts, Garlic, Parmesan Cheese",
+                "MethodOfCooking": "Soak bread in water.  Add vinegar, oil, and salt. Blend until smooth. Add water as needed for consistency. Chill for 1 hour before serving.",
+                "ratings": "3",
+                "recipePicture": "https://i.ibb.co/yYjNWM9/r5.jpg"
+            },
+            {
+                "name": "Olive",
+                "ingredients": "Pine Nuts, Garlic, Parmesan Cheese,Basil, Olive Oil",
+                "MethodOfCooking": "Soak bread in water. Chop tomatoes, cucumber, bell pepper, onion, and garlic and add to blender. Squeeze water from bread and add to blender. ",
+                "ratings": "2",
+                "recipePicture": "https://i.ibb.co/PCKpG8c/dan-gold-4-jh-DO54-BYg-unsplash.jpg"
+            },
+            {
+                "name": "Chilly Olive",
+                "ingredients": "Chill Nuts, Garlic nut, chilly Parmesan Cheese,Basil, Olive Oil",
+                "MethodOfCooking": "Soak bread in water. Chop tomatoes, cucumber, bell pepper, onion, and garlic and add to blender. Squeeze water from bread and add to blender. ",
+                "ratings": "5",
+                "recipePicture": "https://i.ibb.co/yYjNWM9/r5.jpg"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "chefPicture": "https://i.ibb.co/nkY2mSb/maria-teneva-PFVTZSq-Iqn0-unsplash.jpg",
+        "chefName": "Bob Nguyen",
+        "yearOfExperience": 7,
+        "numberOfRecipes": 30,
+        "likes": 700,
+        "desc": "Passion for local ingredients",
+        "recipe": [
+            {
+                "name": "Spanish Omelette",
+                "ingredients": "Potatoes, Onions, Eggs, Olive Oil, Salt",
+                "MethodOfCooking": "Peel and slice potatoes and onions. Fry in olive oil until tender. Beat eggs with salt and add to pan. Cook until set. Flip omelette and cook until golden brown.",
+                "ratings": "4",
+                "recipePicture": "https://i.ibb.co/PCKpG8c/dan-gold-4-jh-DO54-BYg-unsplash.jpg"
+            },
+            {
+                "name": "Paella",
+                "ingredients": "Rice, Chicken, Shrimp, Tomatoes, Peppers, Onions, Garlic, Saffron, Chicken Broth",
+                "MethodOfCooking": "Sear chicken and shrimp in a paella pan. Remove from pan and set aside. Saute onions, peppers.",
+                "ratings": "5",
+                "recipePicture": "https://i.ibb.co/yYjNWM9/r5.jpg"
+            },
+            {
+                "name": "Gazpacho",
+                "ingredients": "Tomatoes, Cucumber, Bell Pepper, Onion, Garlic, Bread, Vinegar, Olive Oil, Salt",
+                "MethodOfCooking": "Add vinegar, oil, and salt. Blend until smooth. Add water as needed for consistency. Chill for 1 hour before serving.",
+                "ratings": "4",
+                "recipePicture": "https://i.ibb.co/PCKpG8c/dan-gold-4-jh-DO54-BYg-unsplash.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chefPicture": "https://i.ibb.co/NY9K9WC/c4.jpg",
+        "chefName": "Carla Rodriguez",
+        "yearOfExperience": 3,
+        "numberOfRecipes": 10,
+        "likes": 200,
+        "desc": "TV personality and restaurateur with global reach.",
+        "recipe": [
+            {
+                "name": "Paella",
+                "ingredients": "Rice, Chicken, Shrimp, Tomatoes, Peppers, Onions, Garlic, Saffron, Chicken Broth",
+                "MethodOfCooking": "Sear chicken and shrimp in a paella pan. Remove from pan and set aside. Saute onions, peppers.",
+                "ratings": "5",
+                "recipePicture": "https://i.ibb.co/yYjNWM9/r5.jpg"
+            },
+            {
+                "name": "Gazpacho",
+                "ingredients": "Tomatoes, Cucumber, Bell Pepper, Onion, Garlic, Bread, Vinegar, Olive Oil, Salt",
+                "MethodOfCooking": "Add vinegar, oil, and salt. Blend until smooth. Add water as needed for consistency. Chill for 1 hour before serving.",
+                "ratings": "1",
+                "recipePicture": "https://i.ibb.co/PCKpG8c/dan-gold-4-jh-DO54-BYg-unsplash.jpg"
+            },
+            {
+                "name": "Chilly Olive",
+                "ingredients": "Chill Nuts, Garlic nut, chilly Parmesan Cheese,Basil, Olive Oil",
+                "MethodOfCooking": "Soak bread in water. Chop tomatoes, cucumber, bell pepper, onion, and garlic and add to blender. Squeeze water from bread and add to blender. ",
+                "ratings": "4.3",
+                "recipePicture": "https://i.ibb.co/yYjNWM9/r5.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chefPicture": "https://i.ibb.co/V9m5TRR/c3.jpg",
+        "chefName": "David Kim",
+        "yearOfExperience": 12,
+        "numberOfRecipes": 60,
+        "likes": 1200,
+        "desc": "Chef with focus on sustainability and ethical sourcing.",
+        "recipe": [
+            {
+                "name": "Gazpacho",
+                "ingredients": "Tomatoes, Cucumber, Bell Pepper, Onion, Garlic, Bread, Vinegar, Olive Oil, Salt",
+                "MethodOfCooking": "Add vinegar, oil, and salt. Blend until smooth. Add water as needed for consistency. Chill for 1 hour before serving.",
+                "ratings": "1",
+                "recipePicture": "https://i.ibb.co/yYjNWM9/r5.jpg"
+            },
+            {
+                "name": "Chilly Olive",
+                "ingredients": "Chill Nuts, Garlic nut, chilly Parmesan Cheese,Basil, Olive Oil",
+                "MethodOfCooking": "Soak bread in water. Chop tomatoes, cucumber, bell pepper, onion, and garlic and add to blender. Squeeze water from bread and add to blender. ",
+                "ratings": "4.3",
+                "recipePicture": "https://i.ibb.co/PCKpG8c/dan-gold-4-jh-DO54-BYg-unsplash.jpg"
+            },
+            {
+                "name": "Paella",
+                "ingredients": "Rice, Chicken, Shrimp, Tomatoes, Peppers, Onions, Garlic, Saffron, Chicken Broth",
+                "MethodOfCooking": "Sear chicken and shrimp in a paella pan. Remove from pan and set aside. Saute onions, peppers.",
+                "ratings": "5",
+                "recipePicture": "https://i.ibb.co/yYjNWM9/r5.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chefPicture": "https://i.ibb.co/qy4drhH/c2.jpg",
+        "chefName": "Emily Chen",
+        "yearOfExperience": 9,
+        "numberOfRecipes": 40,
+        "likes": 900,
+        "desc": "Pioneer of fusion cuisine with bold flavors.",
+        "recipe": [
+            {
+                "name": "Spanish Omelette",
+                "ingredients": "Potatoes, Onions, Eggs, Olive Oil, Salt",
+                "MethodOfCooking": "Peel and slice potatoes and onions. Fry in olive oil until tender. Beat eggs with salt and add to pan. Cook until set. Flip omelette and cook until golden brown.",
+                "ratings": "4",
+                "recipePicture": "https://i.ibb.co/yYjNWM9/r5.jpg"
+            },
+            {
+                "name": "Liquid Olive",
+                "ingredients": "Basil, Olive Oil, Pine Nuts, Garlic, Parmesan Cheese",
+                "MethodOfCooking": "Soak bread in water.  Add vinegar, oil, and salt. Blend until smooth. Add water as needed for consistency. Chill for 1 hour before serving.",
+                "ratings": "3",
+                "recipePicture": "https://i.ibb.co/PCKpG8c/dan-gold-4-jh-DO54-BYg-unsplash.jpg"
+            },
+            {
+                "name": "Olive",
+                "ingredients": "Pine Nuts, Garlic, Parmesan Cheese,Basil, Olive Oil",
+                "MethodOfCooking": "Soak bread in water. Chop tomatoes, cucumber, bell pepper, onion, and garlic and add to blender. Squeeze water from bread and add to blender. ",
+                "ratings": "2",
+                "recipePicture": "https://i.ibb.co/yYjNWM9/r5.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chefPicture": "https://i.ibb.co/pnR17Q0/c1.jpg",
+        "chefName": "Franklin Patel",
+        "yearOfExperience": 8,
+        "numberOfRecipes": 25,
+        "likes": 400,
+        "desc": "Master of classic French techniques and elegant dishes.",
+        "recipe": [
+            {
+                "name": "Spanish Omelette",
+                "ingredients": "Potatoes, Onions, Eggs, Olive Oil, Salt",
+                "MethodOfCooking": "Peel and slice potatoes and onions. Fry in olive oil until tender. Beat eggs with salt and add to pan. Cook until set. Flip omelette and cook until golden brown.",
+                "ratings": "4",
+                "recipePicture": "https://i.ibb.co/PCKpG8c/dan-gold-4-jh-DO54-BYg-unsplash.jpg"
+            },
+            {
+                "name": "Olive",
+                "ingredients": "Pine Nuts, Garlic, Parmesan Cheese,Basil, Olive Oil",
+                "MethodOfCooking": "Soak bread in water. Chop tomatoes, cucumber, bell pepper, onion, and garlic and add to blender. Squeeze water from bread and add to blender. ",
+                "ratings": "2",
+                "recipePicture": "https://i.ibb.co/yYjNWM9/r5.jpg"
+            },
+            {
+                "name": "Paella",
+                "ingredients": "Rice, Chicken, Shrimp, Tomatoes, Peppers, Onions, Garlic, Saffron, Chicken Broth",
+                "MethodOfCooking": "Sear chicken and shrimp in a paella pan. Remove from pan and set aside. Saute onions, peppers.",
+                "ratings": "0",
+                "recipePicture": "https://i.ibb.co/PCKpG8c/dan-gold-4-jh-DO54-BYg-unsplash.jpg"
+            }
+        ]
+    }
+]
